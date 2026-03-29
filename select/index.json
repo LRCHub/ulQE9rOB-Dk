@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Search of “Life is Beautiful\"",
+  "base_artist": "GYARI（ココアシガレットP）",
+  "createdAt": "2026-03-29T15:34:40.649937Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Search of “Life is Beautiful”",
+      "artist": "GYARI (ココアシガレットP )",
+      "has_synced": false,
+      "path": "select/pl_01_Search_of_“Life_is_Beautiful”_GYARI_(ココアシガレットP_).txt"
+    }
+  ]
+}
