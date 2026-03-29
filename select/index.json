@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "base_track": "Search of “Life is Beautiful\"",
-  "base_artist": "GYARI（ココアシガレットP）",
-  "createdAt": "2026-03-29T15:34:40.649937Z",
+  "base_track": "shadow where it doesn’t disappear",
+  "base_artist": "my dead girlfriend",
+  "createdAt": "2026-03-29T15:34:54.026423Z",
   "candidates": [
     {
-      "id": "petitlyrics_1",
-      "source": "petitlyrics",
-      "title": "Search of “Life is Beautiful”",
-      "artist": "GYARI (ココアシガレットP )",
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "shadow where it doesn’t disappear - shadow where it doesn't disappear",
+      "artist": "my dead girlfriend",
       "has_synced": false,
-      "path": "select/pl_01_Search_of_“Life_is_Beautiful”_GYARI_(ココアシガレットP_).txt"
+      "path": "select/01_shadow_where_it_doesn’t_disappear_-_shadow_where_it_doesn't_disappear_my_dead_girlfriend.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "shadow where it doesn't disappear",
+      "artist": "死んだ僕の彼女",
+      "has_synced": true,
+      "path": "select/02_shadow_where_it_doesn't_disappear_死んだ僕の彼女.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "shadow where it doesn't disappear",
+      "artist": "my dead girlfriend",
+      "has_synced": false,
+      "path": "select/03_shadow_where_it_doesn't_disappear_my_dead_girlfriend.txt"
     }
   ]
 }
